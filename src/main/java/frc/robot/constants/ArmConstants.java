@@ -10,7 +10,7 @@ public class ArmConstants {
             0, 0, 0
     };
     // TODO use real encoder id
-    public static final int ENCODER_ID = 0;
+    public static final int ENCODER_ID = 5; // TODO: Set this to the actual DIO port the encoder is connected to.
 
     public static final double S = 0;
     public static final double V = 0;
